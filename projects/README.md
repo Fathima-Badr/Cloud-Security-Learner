@@ -1,0 +1,1 @@
+This folder will include small hands-on projects and experiments related to cloud and security. These projects help me apply theoretical concepts in a practical way, such as working with cloud services, basic security setups, and simple automation tasks.
