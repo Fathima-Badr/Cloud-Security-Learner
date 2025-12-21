@@ -1,0 +1,1 @@
+This folder is for practice scripts and basic automation. It may include shell scripts or simple programs written while learning Linux, cloud operations, and security fundamentals. These scripts are part of my learning process.
